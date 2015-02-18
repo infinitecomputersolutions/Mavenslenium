@@ -1,0 +1,9 @@
+TestDescription=Test - COE111012293
+Testing Tool Configuration :
+TestingTool=selenium
+Browser=FIREFOX
+OperatingSystem=win7
+TestType=SmokeTest
+TestEnv=sit
+EmailList=naga.jyothirmaya@infinite.com
+ResultPath=Result Path

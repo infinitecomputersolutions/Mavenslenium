@@ -1,0 +1,11 @@
+TestDescription=Test - COE111012293
+Testing Tool Configuration :
+TestingTool=selenium
+Browser=FIREFOX
+OperatingSystem=winxp
+Project=D:\Projects\Selenium\SeleniumIGAF
+TestType=SmokeTest
+TestEnv=qa
+EmailList=@infinite.com
+ResultPath=D:\Projects
+Date/Time=Fri Oct 4 19:48:52 UTC+0530 2013

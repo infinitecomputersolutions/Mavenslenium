@@ -1,0 +1,39 @@
+[-0.000][INFO]:     ChromeDriver 26.0.1383.0 E:\Projects\Selenium\SeleniumIGAF\Drivers\chromedriver_win_26.0.1383.0\chromedriver.exe
+[1.060][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "platform": "ANY",
+   "version": ""
+}
+
+[1.060][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
+[1.391][INFO]:      Connected to Chrome successfully. Version: 31.0.1650.57
+[1.631][FINE]:      Command received (/session/1404362aa822e5612fc67b0721803e90)
+[1.631][FINE]:      Command finished (/session/1404362aa822e5612fc67b0721803e90) with response {
+   "sessionId": "1404362aa822e5612fc67b0721803e90",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "31.0.1650.57",
+      "webStorageEnabled": true
+   }
+}
+
+[1.648][FINE]:      Command received (/session/1404362aa822e5612fc67b0721803e90/window/current/maximize) with params {
+   "windowHandle": "current"
+}
+
+[1.648][FINER]:     Waiting for all views to stop loading...
+[1.649][FINER]:     Done waiting for all views to stop loading
